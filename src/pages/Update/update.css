@@ -1,0 +1,59 @@
+.update_container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    background: grey;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.box_update {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #000;
+    border-radius: 20px;
+    width: 350px;
+    padding: 50px;
+    background: white;  
+}
+
+.box_update H1 {
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+.box_update form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 20px;
+    margin: 5px;
+}
+
+.box_update label {
+    color:black;
+    margin: 5px;
+}
+
+.box_update input {
+    width: 300px;
+    height: 30px;
+    border: none;
+    background: grey;
+    margin: 5px;
+    border-radius: 5px;
+    outline: 0px;
+}
+
+.box_update button {
+    width: 150px;
+    border: none;
+    background: blue;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 30px;
+    cursor: pointer;
+}
