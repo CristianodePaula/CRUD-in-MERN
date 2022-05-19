@@ -1,9 +1,7 @@
-<p align="center">
-<img src="https://user-images.githubusercontent.com/91747232/155821634-54d5a9ae-b6c9-4638-8ee5-a121b49cdf57.gif" height="400px"/>
-</p>
-<hr>
-
 # CRUD IN MERN STACK
+
+Click to watch the video on youtube 
+[![Watch the video](https://user-images.githubusercontent.com/91747232/169192416-f5555c22-0635-4333-9711-d4d5bbab69fe.png)](https://www.youtube.com/watch?v=KgmVSrhSkow&t=49s)
 
 ## 🚀 Starting
 
@@ -21,21 +19,13 @@ As a methodology I sought a simple syntax so that readers can easily understand 
 * React
 * Axios
 
-## 🔧 Installations
-
-* npm init
-* npm i express
-* npm i mongoose
-* npm i axios
-* npm i react-router-dom
-
 ## 🛠️ Built with
 
 * Visual Studio Code
 
 ## 📌 Version
 
-Single version. Updated only in case of feature updates.
+1.0
 
 ## ✒️ Author
 
