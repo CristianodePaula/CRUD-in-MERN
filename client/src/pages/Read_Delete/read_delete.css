@@ -1,0 +1,101 @@
+.read_delete {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    background: grey;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.box_read_delete {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 50px;
+    background: white;
+    padding: 40px;   
+    width: 680px;
+    text-align: center;
+}
+
+.box_read_delete h1 {
+    color: black;
+}
+
+.box_read_delete table caption {
+    color: black;
+    font-size: 40px;
+    margin: 40px;
+    margin-top: 10px;
+}
+
+.box_read_delete table tr, td, th{
+    border: none;
+    width:450px;
+    padding:0px;
+    font-size:20px;
+}
+
+.box_read_delete td {
+    width:150px;
+    height:30px;
+    color: black
+}
+
+.box_read_delete th {
+    font-weight: 500;
+    background: black;
+    height:30px;
+}
+
+.box_read_delete tr:nth-child(even) {
+    background: #DDDDDD; 
+}
+
+.box_read_delete tr {
+    background-color: grey;
+    color:#FFF;
+}
+
+.btn_read_create  {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.btnEdit {
+    width: 80px;
+    background: blue;
+    color: white; 
+    font-size: 15px;
+    padding: 5px; 
+    margin-right: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btnDelete {
+    width: 80px;
+    background:red;
+    color: white; 
+    font-size: 15px;
+    padding: 5px;   
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btnCreate {
+    width: 100px;
+    background: green;
+    color: white; 
+    font-size: 15px;
+    padding: 5px; 
+    display: flex;
+    align-items: flex-start;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
