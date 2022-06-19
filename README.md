@@ -25,7 +25,7 @@ As a methodology I sought a simple syntax so that readers can easily understand 
 
 ## 📌 Version
 
-1.0
+This repository is basically a backup. From version "crud complete" onwards there may be commits in order to improve the code.
 
 ## ✒️ Author
 
